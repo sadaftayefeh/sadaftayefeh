@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @sadaftayefeh
+- 👀 I’m interested in web and game development and I want to work as a programmer.
+- 🌱 I’m currently learning as much as I can on ReactJS and Javascript.
+- 📫 Here is how to reach me: sadaftayefeh0@gmail.com
